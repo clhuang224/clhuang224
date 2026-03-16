@@ -1,18 +1,34 @@
-<h1 align="center">Hi 👋, I'm Lynn</h1>
-<h3 align="center">A frontend developer from Taiwan</h3>
+# Hi, I'm Lynn
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=clhuang224&label=Profile%20views&color=E09E9C" alt="view-counter" /> </p>
+Front-end engineer from Taiwan, focused on maintainable architecture, reusable logic, and practical developer workflows.
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy" ><img src="https://github-profile-trophy.vercel.app/?username=clhuang224&theme=flat&margin-w=16&margin-h=16&column=6" alt="profile-trophy" /></a> </p>
+I mainly work with Vue, React, and TypeScript, and I also contribute to open-source translation in Traditional Chinese.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="60"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="60"/> </a> <a href="hexo.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="60"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="60"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="60"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="60"/> </a> </p>
+## Featured projects
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=clhuang224&show_icons=true&locale=en&layout=compact" alt="top-langs" /></p>
+- [Finding the Bus](https://github.com/clhuang224/bus) - An ongoing bus lookup SPA built with React, Redux Toolkit, and MapLibre, focused on geolocation flow, map interaction, and data flow design.
+- [PrePrompt](https://github.com/clhuang224/pre-prompt) - A local-first tool for replacing sensitive terms before pasting text into LLMs. Supports rule management, toggling, LocalStorage, and JSON import/export.
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=clhuang224&show_icons=true&locale=en" alt="github-stats" /></p>
+## Other projects
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=clhuang224&&date_format=[Y.]n.j&ring=467ee5
-&fire=467ee5
-&currStreakLabel=467ee5
-" alt="github-streak" /></p>
+- [Mask Map](https://github.com/clhuang224/F2E_2nd/tree/master/W10_MaskMap) - A mask availability map built during the early COVID-19 period with Vue 2, Leaflet, and OpenStreetMap.
+- [Queener](https://github.com/clhuang224/queener) - A work-in-progress puzzle game built with Vue and TypeScript, with a small game engine separated from the UI layer.
+
+## Open source & translation
+
+- Traditional Chinese translation for the React docs
+- Translation contributions to pnpm / Yarn / Verdaccio docs
+- Open-source translation contributions on GitHub and Crowdin
+
+## Earlier Coursework
+
+Earlier coursework repositories that reflect how I document ideas and break down problems:
+
+- [NTUSTCourses](https://github.com/clhuang224/NTUSTCourses)
+- [CSMUCourses](https://github.com/clhuang224/CSMUCourses)
+
+## Links
+
+- [Blog](https://clhuang224.github.io/TechBlog)
+- [LinkedIn](https://www.linkedin.com/in/clhuang224/)
+- [Crowdin](https://crowdin.com/profile/clhuang224)
