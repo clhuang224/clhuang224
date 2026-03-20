@@ -29,6 +29,6 @@ Earlier coursework repositories that reflect how I document ideas and break down
 
 ## Links
 
-- [Blog](https://clhuang224.github.io/TechBlog)
-- [LinkedIn](https://www.linkedin.com/in/clhuang224/)
-- [Crowdin](https://crowdin.com/profile/clhuang224)
+- [Blog](https://blog.lynns.me)
+- [LinkedIn](https://linkedin.lynns.me)
+- [Crowdin](https://crowdin.lynns.me)
