@@ -29,7 +29,7 @@ Earlier coursework repositories that reflect how I document ideas and break down
 
 ## Stats
 
-![GitHub Stats](https://streak-stats.demolab.com/?user=clhuang224&date_format=Y/n/j&background=FFFFFF&ring=C5F5F5&&fire=FAA&date=FAA&currStreakLabel=FAA&stroke=aaa&currStreakNum=FAA&sideNums=FAA&disable_animations=true)
+![GitHub Stats](https://streak-stats.demolab.com/?user=clhuang224&date_format=Y/n/j&background=FFFFFF&ring=C5F5F5&&fire=FAA&date=FAA&currStreakLabel=FAA&stroke=aaa&currStreakNum=FAA&sideNums=FAA&disable_animations=true&timezone=Asia/Taipei)
 
 ![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=clhuang224&layout=compact&hide_title=true&langs_count=8&disable_animations=true&card_width=495)
 
